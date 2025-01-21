@@ -1,0 +1,26 @@
+{
+  "name": "haroon",
+  "version": "1.0.0",
+  "description": "Node JS Tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/muhammadharoon26/NodeJS-Tutorial.git"
+  },
+  "author": "haroon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/muhammadharoon26/NodeJS-Tutorial/issues"
+  },
+  "homepage": "https://github.com/muhammadharoon26/NodeJS-Tutorial#readme",
+  "dependencies": {
+    "@angular/cli": "^17.3.11",
+    "express": "^4.21.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
