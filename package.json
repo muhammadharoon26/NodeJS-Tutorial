@@ -11,7 +11,6 @@
     "url": "git+https://github.com/muhammadharoon26/NodeJS-Tutorial.git"
   },
   "author": "haroon",
-  "type": "module",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/muhammadharoon26/NodeJS-Tutorial/issues"
